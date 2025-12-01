@@ -544,7 +544,7 @@ h3 {
     border-color: var(--accent);
 }
 .service-card img {
-    width: 250px;
+    width: 300px;
     height: 250px;
     border-radius: 10px;
     margin-bottom: 8px;
